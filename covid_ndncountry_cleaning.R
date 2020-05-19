@@ -90,7 +90,9 @@ totbytribe <- full_join(casesbytribe, deathsbytribe, by = "Where", copy = FALSE,
 #join with population data
 colnames(rez_pop)[4] <- c("Where")
 tribepop <- full_join(totbytribe, rez_pop, by = "Where", copy = FALSE, name = "join")
+#check for mismatches
 tribe_pop_anti <- anti_join(totbytribe, rez_pop, by = "Where", copy = FALSE, name = "join")
+write.csv(tribe_pop_anti, "C:/Users/MariahTso/Documents/covid_ndnCountry/tribe_mismatch.csv")
 
 #add case & death rates
 triberates <- tribepop %>% mutate(deathrate = (deaths/tot_pop)*100000,
