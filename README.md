@@ -1,7 +1,5 @@
 # Covid-19 in Indian Country
 
-"This is a line from RStudio."
-
 https://observablehq.com/@mtso23/covid-19-in-indian-country@1564
 
 View this notebook in your browser by running a web server in this folder. For
