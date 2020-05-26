@@ -4,17 +4,17 @@ library(lubridate)
 library(readr)
 
 #load ICT data
-ndncntry_covid = read.csv("C:/Users/MariahTso/Desktop/UCLA/aisc_covid/ICT_downloads/ICT_514_749pm_pst.csv") #read csv file
-covid <- data.frame(ndncntry_covid) #create dataframe
+ndncntry_covid = read.csv("C:/Users/MariahTso/Desktop/UCLA/aisc_covid/ICT_downloads/ICT_526_1045am_pst.csv") #read csv file
+covid <- data.frame(ndncntry_covid, stringsAsFactors = FALSE) #create dataframe
 rezpop = read.csv("C:/Users/MariahTso/Documents/covid_ndnCountry/reservation_pop.csv") #read csv with tribal popoulations
 rez_pop <- data.frame(rezpop) #create dataframe
 
 #load John Hopkin's data for States
-urlfile="https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports_us/05-12-2020.csv" #update date in file name
+urlfile="https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports_us/05-24-2020.csv" #update date in file name
 uscovid <-read_csv(url(urlfile))
 
 #change data to tibbles
-covid <- as_tibble(covid)
+covid <- as_tibble(covid, stringsAsFactors = FALSE)
 rez_pop <- as_tibble(rez_pop)
 
 #rename columns from original file
@@ -33,6 +33,11 @@ covid$Where[ which(covid$Where %in% c("Seneca Nation","Seneca Nation - Allegany"
 covid$Where[ which(covid$Where %in% c("White Mountain Apache","White Mountain Apache Tribe", "Fort Apache Indian Reservation"))] <- "White Mountain Apache"
 covid$Where[ which(covid$Where %in% c("Choctaw Nation","Choctaw Nation of Oklahoma"))] <- "Choctaw Nation"
 covid$Where[ which(covid$Where %in% c("Lummi","Lummi Nation"))] <- "Lummi"
+#covid$Where[ which(covid$Where %in% c("Leech Lake Reservation"))] <- "Leech Lake"
+#covid$Where[ which(covid$Where %in% c("Nez Perce Reservation"))] <- "Nez Perce"
+#covid$Where[ which(covid$Where %in% c("Pine Ridge Indian Reservation"))] <- "Pine Ridge"
+#covid$Where[ which(covid$Where %in% c("Sac and Fox Tribe of the Mississippi"))] <- "Sac and Fox"
+#covid$Where[ which(covid$Where %in% c("Santee Sioux Nation"))] <- "Santee Sioux"
 covid$Where <- droplevels(covid$Where)
 
 dim(unique(cbind(covid$Where, covid$date)))
