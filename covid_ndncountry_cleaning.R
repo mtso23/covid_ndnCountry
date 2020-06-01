@@ -44,7 +44,7 @@ dim(unique(cbind(covid$Where, covid$date)))
 
 #converting dates to appropriate format
 covid$date <- paste0(covid$date, "-2020")
-covid$date <- mdy(covid$date)
+#covid$date <- mdy(covid$date)
 
 #combining cases based on tribe, state, and date  
 covidcases <- covid %>% filter(Case == "1")%>% group_by(Where, date, Case) %>% summarise(n())
@@ -79,6 +79,7 @@ coviddeaths2 <- covid %>% filter(Deaths == 1) %>% group_by(date) %>% count(Death
 coviddeaths2 <- subset(coviddeaths2, select = -c(Deaths))
 covidcases2 <- subset(covidcases2, select = -c(Case))
 totndncntry <- full_join(coviddeaths2, covidcases2, by = c("date" = "date"), copy = FALSE, name = "join")
+totndncntry <- subset(totndncntry, totndncntry$date != "-2020")
 write.csv(totndncntry, "C:/Users/MariahTso/Documents/covid_ndnCountry/totalndncntry.csv")
 
 #combining cases for all tribes
