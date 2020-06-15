@@ -4,13 +4,13 @@ library(lubridate)
 library(readr)
 
 #load ICT data
-ndncntry_covid = read.csv("C:/Users/MariahTso/Desktop/UCLA/aisc_covid/ICT_downloads/ICT_531_811pm_pst.csv") #read csv file
+ndncntry_covid = read.csv("C:/Users/MariahTso/Desktop/UCLA/aisc_covid/ICT_downloads/ICT_615_1237pm_pst.csv") #read csv file
 covid <- data.frame(ndncntry_covid, stringsAsFactors = FALSE) #create dataframe
 rezpop = read.csv("C:/Users/MariahTso/Documents/covid_ndnCountry/reservation_pop.csv") #read csv with tribal popoulations
 rez_pop <- data.frame(rezpop) #create dataframe
 
 #load John Hopkin's data for States
-urlfile="https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports_us/05-26-2020.csv" #update date in file name
+urlfile="https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports_us/06-05-2020.csv" #update date in file name
 uscovid <-read_csv(url(urlfile))
 
 #change data to tibbles
