@@ -1,326 +1,544 @@
 "","nation","date","deaths","cases"
 "1","A Northwest Arctic Borough Village","22-May-2020",NA,1
 "2","Bay Mills Indian Community","4-May-2020",NA,1
-"3","Bering Strait","22-May-2020",NA,2
-"4","Bishop Paiute","10-Apr-2020",NA,1
-"5","Bishop Paiute","25-Mar-2020",NA,1
-"6","Bishop Paiute","26-Mar-2020",NA,1
-"7","Blackfeet Nation","1-May-2020",1,NA
-"8","Blackfeet Nation","25-Apr-2020",NA,1
-"9","Cherokee","17-Apr-2020",1,2
-"10","Cherokee","18-Mar-2020",1,1
-"11","Cherokee","6-Apr-2020",1,13
-"12","Cherokee","11-May-2020",NA,1
-"13","Cherokee","13-Apr-2020",NA,3
-"14","Cherokee","15-Apr-2020",NA,13
-"15","Cherokee","15-May-2020",NA,1
-"16","Cherokee","21-Apr-2020",NA,7
-"17","Cherokee","21-May-2020",NA,3
-"18","Cherokee","22-Apr-2020",NA,1
-"19","Cherokee","23-Apr-2020",NA,2
-"20","Cherokee","24-Mar-2020",NA,1
-"21","Cherokee","27-Apr-2020",NA,1
-"22","Cherokee","28-Apr-2020",NA,6
-"23","Cherokee","29-Apr-2020",NA,2
-"24","Cherokee","3-Apr-2020",NA,10
-"25","Cherokee","6-May-2020",NA,4
-"26","Cherokee","7-Apr-2020",NA,2
-"27","Cherokee","7-May-2020",NA,3
-"28","Cherokee","8-Apr-2020",NA,2
-"29","Cheyenne and Arapaho Tribes","19-May-2020",NA,1
-"30","Cheyenne River","19-May-2020",1,4
-"31","Cheyenne River","4-Apr-2020",NA,1
-"32","Choctaw Nation","14-Apr-2020",1,2
-"33","Choctaw Nation","21-Apr-2020",1,5
-"34","Choctaw Nation","22-Apr-2020",1,1
-"35","Choctaw Nation","4-Apr-2020",1,4
-"36","Choctaw Nation","9-May-2020",2,NA
-"37","Choctaw Nation","1-Apr-2020",NA,1
-"38","Choctaw Nation","1-May-2020",NA,3
-"39","Choctaw Nation","10-Apr-2020",NA,1
-"40","Choctaw Nation","12-Apr-2020",NA,1
-"41","Choctaw Nation","13-Apr-2020",NA,6
-"42","Choctaw Nation","15-Apr-2020",NA,5
-"43","Choctaw Nation","16-May-2020",NA,1
-"44","Choctaw Nation","17-Apr-2020",NA,3
-"45","Choctaw Nation","17-May-2020",NA,5
-"46","Choctaw Nation","18-Apr-2020",NA,3
-"47","Choctaw Nation","18-May-2020",NA,5
-"48","Choctaw Nation","19-May-2020",NA,5
-"49","Choctaw Nation","2-May-2020",NA,7
-"50","Choctaw Nation","20-Apr-2020",NA,2
-"51","Choctaw Nation","20-May-2020",NA,8
-"52","Choctaw Nation","21-May-2020",NA,1
-"53","Choctaw Nation","22-May-2020",NA,7
-"54","Choctaw Nation","23-Apr-2020",NA,2
-"55","Choctaw Nation","23-May-2020",NA,7
-"56","Choctaw Nation","24-Apr-2020",NA,1
-"57","Choctaw Nation","24-May-2020",NA,7
-"58","Choctaw Nation","26-Apr-2020",NA,6
-"59","Choctaw Nation","26-Mar-2020",NA,1
-"60","Choctaw Nation","27-Apr-2020",NA,2
-"61","Choctaw Nation","27-Mar-2020",NA,4
-"62","Choctaw Nation","28-Apr-2020",NA,4
-"63","Choctaw Nation","28-Mar-2020",NA,1
-"64","Choctaw Nation","29-Apr-2020",NA,1
-"65","Choctaw Nation","3-Apr-2020",NA,4
-"66","Choctaw Nation","3-May-2020",NA,4
-"67","Choctaw Nation","30-Apr-2020",NA,2
-"68","Choctaw Nation","5-May-2020",NA,1
-"69","Choctaw Nation","6-Apr-2020",NA,3
-"70","Choctaw Nation","6-May-2020",NA,3
-"71","Choctaw Nation","7-Apr-2020",NA,2
-"72","Choctaw Nation","9-Apr-2020",NA,2
-"73","Colorado River Indian Reservation","1-May-2020",NA,1
-"74","Colorado River Indian Reservation","12-May-2020",NA,1
-"75","Colorado River Indian Reservation","13-May-2020",NA,11
-"76","Colorado River Indian Reservation","18-May-2020",NA,5
-"77","Colorado River Indian Reservation","19-May-2020",NA,3
-"78","Colorado River Indian Reservation","7-May-2020",NA,1
-"79","Colville Reservation","23-Apr-2020",1,2
-"80","Colville Reservation","1-Apr-2020",NA,1
-"81","Colville Reservation","10-Apr-2020",NA,4
-"82","Colville Reservation","5-Apr-2020",NA,2
-"83","Deg Hit’an Athabaskan","27-Mar-2020",1,1
-"84","Eastern Band of Cherokee Indians","13-Apr-2020",NA,5
-"85","Eastern Band of Cherokee Indians","27-Mar-2020",NA,1
-"86","Fort Berthold Indian Reservation","10-Apr-2020",NA,2
-"87","Fort Berthold Indian Reservation","10-May-2020",NA,2
-"88","Fort Berthold Indian Reservation","13-Apr-2020",NA,8
-"89","Fort Berthold Indian Reservation","15-Apr-2020",NA,1
-"90","Fort Berthold Indian Reservation","20-Apr-2020",NA,1
-"91","Fort Berthold Indian Reservation","21-Apr-2020",NA,2
-"92","Fort Berthold Indian Reservation","22-Apr-2020",NA,2
-"93","Fort Berthold Indian Reservation","4-Apr-2020",NA,15
-"94","Fort Berthold Indian Reservation","5-May-2020",NA,1
-"95","Fort Berthold Indian Reservation","6-Apr-2020",NA,1
-"96","Fort Berthold Indian Reservation","7-Apr-2020",NA,1
-"97","Fort Hall Indian Reservation","3-Apr-2020",NA,1
-"98","Fort Hall Indian Reservation","7-May-2020",NA,1
-"99","Fort McDowell Yavapai Nation","26-Mar-2020",1,1
-"100","Fort Yuma Indian Reservation","7-Apr-2020",NA,1
-"101","Gila River Indian Community","4-Apr-2020",1,NA
-"102","Gila River Indian Community","1-Apr-2020",NA,1
-"103","Gila River Indian Community","23-Mar-2020",NA,2
-"104","Gila River Indian Community","30-Mar-2020",NA,4
-"105","Ho-Chunk Nation","15-Apr-2020",2,3
-"106","Ho-Chunk Nation","2-Apr-2020",NA,1
-"107","Ho-Chunk Nation","26-Apr-2020",NA,4
-"108","Ho-Chunk Nation","8-Apr-2020",NA,5
-"109","Hoopa Valley Tribe","4-Apr-2020",NA,1
-"110","Hopi","11-May-2020",NA,15
-"111","Hopi","17-Apr-2020",NA,18
-"112","Hopi","2-Apr-2020",NA,6
-"113","Hopi","21-Apr-2020",NA,8
-"114","Hopi","23-Apr-2020",NA,6
-"115","Hopi","25-Mar-2020",NA,1
-"116","Hopi","4-May-2020",NA,13
-"117","Jemez Pueblo","21-Apr-2020",NA,1
-"118","Jicarilla Apache Nation","8-May-2020",NA,1
-"119","Kewa Pueblo","12-May-2020",NA,15
-"120","Kewa Pueblo","16-Apr-2020",NA,2
-"121","Kewa Pueblo","18-May-2020",NA,20
-"122","Kewa Pueblo","21-Apr-2020",NA,7
-"123","Kewa Pueblo","22-Apr-2020",NA,6
-"124","Kewa Pueblo","26-May-2020",NA,9
-"125","Kewa Pueblo","28-Apr-2020",NA,6
-"126","Kewa Pueblo","28-Mar-2020",NA,1
-"127","Kiowa Tribe of Oklahoma","17-Apr-2020",NA,1
-"128","Kotzebue, Alaska","20-May-2020",NA,1
-"129","Lac Courte Oreilles Tribe","20-May-2020",NA,1
-"130","Leech Lake Reservation","11-May-2020",NA,1
-"131","Lummi","1-May-2020",NA,5
-"132","Lummi","16-Apr-2020",NA,2
-"133","Lummi","18-Mar-2020",NA,3
-"134","Lummi","2-Apr-2020",NA,1
-"135","Lummi","2-May-2020",NA,2
-"136","Lummi","21-Mar-2020",NA,2
-"137","Lummi","22-Apr-2020",NA,1
-"138","Lummi","23-Mar-2020",NA,3
-"139","Lummi","26-Mar-2020",NA,2
-"140","Lummi","27-Mar-2020",NA,2
-"141","Lummi","28-Mar-2020",NA,3
-"142","Lummi","29-Apr-2020",NA,3
-"143","Lummi","29-Mar-2020",NA,1
-"144","Lummi","30-Apr-2020",NA,8
-"145","Lummi","31-Mar-2020",NA,1
-"146","Lummi","4-Apr-2020",NA,1
-"147","Lummi","9-May-2020",NA,1
-"148","Mashpee Wampanoag","6-May-2020",NA,11
-"149","Minneapolis","19-Apr-2020",1,NA
-"150","Muckleshoot Tribe","2-Apr-2020",NA,2
-"151","Muscogee (Creek) Nation","25-Mar-2020",NA,1
-"152","Navajo Nation","1-May-2020",2,166
-"153","Navajo Nation","10-May-2020",2,149
-"154","Navajo Nation","11-Apr-2020",2,101
-"155","Navajo Nation","11-May-2020",2,82
-"156","Navajo Nation","12-May-2020",1,41
-"157","Navajo Nation","13-Apr-2020",4,115
-"158","Navajo Nation","13-May-2020",16,147
-"159","Navajo Nation","14-Apr-2020",5,25
-"160","Navajo Nation","14-May-2020",8,141
-"161","Navajo Nation","15-Apr-2020",5,83
-"162","Navajo Nation","16-Apr-2020",3,121
-"163","Navajo Nation","16-May-2020",13,172
-"164","Navajo Nation","17-Apr-2020",3,85
-"165","Navajo Nation","18-May-2020",2,69
-"166","Navajo Nation","19-May-2020",2,82
-"167","Navajo Nation","20-Apr-2020",1,124
-"168","Navajo Nation","20-May-2020",2,100
-"169","Navajo Nation","21-Apr-2020",3,63
-"170","Navajo Nation","21-May-2020",1,181
-"171","Navajo Nation","22-Apr-2020",1,76
-"172","Navajo Nation","22-May-2020",2,95
-"173","Navajo Nation","23-Apr-2020",3,78
-"174","Navajo Nation","23-May-2020",4,104
-"175","Navajo Nation","24-Apr-2020",6,180
-"176","Navajo Nation","24-May-2020",3,56
-"177","Navajo Nation","25-Apr-2020",1,97
-"178","Navajo Nation","25-May-2020",1,105
-"179","Navajo Nation","26-May-2020",1,48
-"180","Navajo Nation","27-Mar-2020",2,21
-"181","Navajo Nation","28-Apr-2020",1,104
-"182","Navajo Nation","29-Apr-2020",2,104
-"183","Navajo Nation","3-Apr-2020",5,29
-"184","Navajo Nation","30-Apr-2020",9,164
-"185","Navajo Nation","30-Mar-2020",3,20
-"186","Navajo Nation","31-Mar-2020",2,26
-"187","Navajo Nation","4-Apr-2020",1,51
-"188","Navajo Nation","5-Apr-2020",1,33
-"189","Navajo Nation","5-May-2020",6,85
-"190","Navajo Nation","6-Apr-2020",1,30
-"191","Navajo Nation","6-May-2020",6,95
-"192","Navajo Nation","7-Apr-2020",2,42
-"193","Navajo Nation","7-May-2020",3,103
-"194","Navajo Nation","8-Apr-2020",3,64
-"195","Navajo Nation","8-May-2020",8,119
-"196","Navajo Nation","9-Apr-2020",2,70
-"197","Navajo Nation","9-May-2020",2,97
-"198","Navajo Nation","1-Apr-2020",NA,40
-"199","Navajo Nation","10-Apr-2020",NA,39
-"200","Navajo Nation","15-May-2020",NA,101
-"201","Navajo Nation","17-Mar-2020",NA,2
-"202","Navajo Nation","17-May-2020",NA,90
-"203","Navajo Nation","18-Apr-2020",NA,70
-"204","Navajo Nation","18-Mar-2020",NA,1
-"205","Navajo Nation","19-Mar-2020",NA,11
-"206","Navajo Nation","2-Apr-2020",NA,27
-"207","Navajo Nation","2-May-2020",NA,81
-"208","Navajo Nation","21-Mar-2020",NA,12
-"209","Navajo Nation","23-Mar-2020",NA,3
-"210","Navajo Nation","24-Mar-2020",NA,20
-"211","Navajo Nation","25-Mar-2020",NA,20
-"212","Navajo Nation","26-Apr-2020",NA,79
-"213","Navajo Nation","26-Mar-2020",NA,2
-"214","Navajo Nation","27-Apr-2020",NA,53
-"215","Navajo Nation","29-Mar-2020",NA,36
-"216","Navajo Nation","4-May-2020",NA,101
-"217","Nez Perce Reservation","1-May-2020",NA,2
-"218","Nez Perce Reservation","2-May-2020",NA,10
-"219","Nez Perce Reservation","7-May-2020",NA,4
-"220","Ohkay Owingeh","3-Apr-2020",NA,1
-"221","Oneida Nation of Wisconsin","1-Apr-2020",NA,2
-"222","Otoe-Missouria Tribe","24-Mar-2020",NA,1
-"223","Pascua Yaqui","31-Mar-2020",2,2
-"224","Penobscot Nation","5-Apr-2020",NA,1
-"225","Pine Ridge Indian Reservation","11-May-2020",NA,2
-"226","Pueblo of Isleta","13-Mar-2020",NA,1
-"227","Pueblo of San Felipe","23-Apr-2020",NA,65
-"228","Pueblo of San Felipe","31-Mar-2020",NA,3
-"229","Pueblo of San Felipe","7-Apr-2020",NA,49
-"230","Pueblo of Zia","5-Apr-2020",NA,11
-"231","Pueblo of Zia","7-Apr-2020",NA,20
-"232","Pueblo of Zuni","11-May-2020",1,NA
-"233","Pueblo of Zuni","7-Apr-2020",1,13
-"234","Pueblo of Zuni","1-Apr-2020",NA,2
-"235","Pueblo of Zuni","1-May-2020",NA,33
-"236","Pueblo of Zuni","10-Apr-2020",NA,9
-"237","Pueblo of Zuni","14-Apr-2020",NA,7
-"238","Pueblo of Zuni","21-Apr-2020",NA,5
-"239","Pueblo of Zuni","28-Apr-2020",NA,12
-"240","Puyallup","29-Mar-2020",NA,1
-"241","Red Lake Band of Chippewa Indians","31-Mar-2020",NA,1
-"242","Red Lake Indian Reservation","21-May-2020",NA,1
-"243","Riverside-San Bernardino County Indian Health Inc.","15-Apr-2020",NA,2
-"244","Rosebud Sioux Tribe","13-May-2020",NA,13
-"245","Rosebud Sioux Tribe","18-May-2020",NA,3
-"246","Rosebud Sioux Tribe","26-Mar-2020",NA,1
-"247","Sac and Fox Tribe of the Mississippi","23-Mar-2020",NA,1
-"248","Saint Regis Mohawk Tribe and the Mohawk Council of Akwesasne","28-Mar-2020",NA,1
-"249","Salt River Pima-Maricopa Indian Community","12-May-2020",NA,4
-"250","Salt River Pima-Maricopa Indian Community","24-Mar-2020",NA,1
-"251","Salt River Pima-Maricopa Indian Community","26-May-2020",NA,28
-"252","Salt River Pima-Maricopa Indian Community","7-May-2020",NA,1
-"253","San Carlos Apache Reservation","14-May-2020",NA,1
-"254","Santee Sioux Nation","6-May-2020",NA,1
-"255","Seneca Nation","14-Apr-2020",NA,1
-"256","Seneca Nation","19-Mar-2020",NA,1
-"257","Seneca Nation ","28-Apr-2020",1,NA
-"258","Southern Ute","29-Mar-2020",NA,2
-"259","Standing Rock Sioux Reservation","8-Apr-2020",NA,1
-"260","Tennessee","22-Mar-2020",1,1
-"261","Tohono O'odham Nation","24-Apr-2020",3,11
-"262","Tohono O'odham Nation","10-Apr-2020",NA,12
-"263","Tohono O'odham Nation","28-Apr-2020",NA,3
-"264","Tohono O'odham Nation","28-Mar-2020",NA,1
-"265","Tohono O'odham Nation","31-Mar-2020",NA,1
-"266","Tulalip Tribes","11-Mar-2020",NA,1
-"267","Tulalip Tribes","23-Mar-2020",NA,2
-"268","Turtle Mountain Indian Reservation","19-Apr-2020",NA,1
-"269","United Houma Nation","17-Apr-2020",NA,11
-"270","Washington, District of Columbia","6-Apr-2020",NA,1
-"271","White Mountain Apache","1-Jun-2020",1,20
-"272","White Mountain Apache","22-May-2020",2,22
-"273","White Mountain Apache","26-Apr-2020",1,NA
-"274","White Mountain Apache","27-Mar-2020",1,1
-"275","White Mountain Apache","29-May-2020",1,35
-"276","White Mountain Apache","3-Jun-2020",1,35
-"277","White Mountain Apache","8-Jun-2020",3,21
-"278","White Mountain Apache","1-Apr-2020",NA,1
-"279","White Mountain Apache","10-Apr-2020",NA,3
-"280","White Mountain Apache","10-May-2020",NA,24
-"281","White Mountain Apache","11-May-2020",NA,9
-"282","White Mountain Apache","12-May-2020",NA,13
-"283","White Mountain Apache","13-Apr-2020",NA,9
-"284","White Mountain Apache","15-Apr-2020",NA,12
-"285","White Mountain Apache","16-Apr-2020",NA,2
-"286","White Mountain Apache","17-Apr-2020",NA,4
-"287","White Mountain Apache","17-May-2020",NA,113
-"288","White Mountain Apache","18-Apr-2020",NA,3
-"289","White Mountain Apache","18-May-2020",NA,15
-"290","White Mountain Apache","19-Apr-2020",NA,30
-"291","White Mountain Apache","19-May-2020",NA,19
-"292","White Mountain Apache","2-Jun-2020",NA,33
-"293","White Mountain Apache","20-Apr-2020",NA,4
-"294","White Mountain Apache","20-May-2020",NA,39
-"295","White Mountain Apache","21-Apr-2020",NA,11
-"296","White Mountain Apache","21-May-2020",NA,29
-"297","White Mountain Apache","22-Apr-2020",NA,4
-"298","White Mountain Apache","23-Apr-2020",NA,2
-"299","White Mountain Apache","23-May-2020",NA,41
-"300","White Mountain Apache","24-May-2020",NA,21
-"301","White Mountain Apache","25-Apr-2020",NA,19
-"302","White Mountain Apache","25-May-2020",NA,14
-"303","White Mountain Apache","26-May-2020",NA,18
-"304","White Mountain Apache","27-Apr-2020",NA,20
-"305","White Mountain Apache","27-May-2020",NA,27
-"306","White Mountain Apache","28-May-2020",NA,13
-"307","White Mountain Apache","30-May-2020",NA,32
-"308","White Mountain Apache","31-May-2020",NA,10
-"309","White Mountain Apache","4-Jun-2020",NA,48
-"310","White Mountain Apache","5-Jun-2020",NA,40
-"311","White Mountain Apache","5-May-2020",NA,99
-"312","White Mountain Apache","6-Jun-2020",NA,35
-"313","White Mountain Apache","7-Jun-2020",NA,22
-"314","White Mountain Apache","7-May-2020",NA,19
-"315","White Mountain Apache","8-Apr-2020",NA,7
-"316","White Mountain Apache","8-May-2020",NA,17
-"317","White Mountain Apache","9-May-2020",NA,9
-"318","Wind River Reservation","21-Apr-2020",4,NA
-"319","Wind River Reservation","10-Apr-2020",NA,6
-"320","Wind River Reservation","21-Mar-2020",NA,1
-"321","Wind River Reservation","31-Mar-2020",NA,9
-"322","Winnebago Tribe of Nebraska","23-Apr-2020",NA,1
-"323","Yakama Nation","19-May-2020",3,90
-"324","Yakama Nation","25-Apr-2020",1,NA
-"325","Yankton Sioux","17-Mar-2020",NA,1
+"3","Bering Strait","13-Jun-2020",NA,1
+"4","Bering Strait","16-Jun-2020",NA,1
+"5","Bering Strait","22-May-2020",NA,3
+"6","Bering Strait","23-Jun-2020",NA,1
+"7","Bering Strait","8-Jun-2020",NA,1
+"8","Bishop Paiute","10-Apr-2020",NA,1
+"9","Bishop Paiute","25-Mar-2020",NA,1
+"10","Bishop Paiute","26-Mar-2020",NA,1
+"11","Blackfeet Nation","1-May-2020",1,NA
+"12","Blackfeet Nation","25-Apr-2020",NA,1
+"13","Cherokee","17-Apr-2020",1,2
+"14","Cherokee","18-Mar-2020",1,1
+"15","Cherokee","6-Apr-2020",1,13
+"16","Cherokee","1-Jun-2020",NA,3
+"17","Cherokee","10-Jun-2020",NA,1
+"18","Cherokee","11-Jun-2020",NA,5
+"19","Cherokee","11-May-2020",NA,1
+"20","Cherokee","13-Apr-2020",NA,3
+"21","Cherokee","15-Apr-2020",NA,13
+"22","Cherokee","15-May-2020",NA,1
+"23","Cherokee","17-Jun-2020",NA,30
+"24","Cherokee","19-Jun-2020",NA,8
+"25","Cherokee","21-Apr-2020",NA,7
+"26","Cherokee","21-May-2020",NA,3
+"27","Cherokee","22-Apr-2020",NA,1
+"28","Cherokee","22-Jun-2020",NA,9
+"29","Cherokee","23-Apr-2020",NA,2
+"30","Cherokee","23-Jun-2020",NA,9
+"31","Cherokee","24-Jun-2020",NA,2
+"32","Cherokee","24-Mar-2020",NA,1
+"33","Cherokee","25-Jun-2020",NA,3
+"34","Cherokee","26-May-2020",NA,4
+"35","Cherokee","27-Apr-2020",NA,1
+"36","Cherokee","27-May-2020",NA,2
+"37","Cherokee","28-Apr-2020",NA,6
+"38","Cherokee","29-Apr-2020",NA,2
+"39","Cherokee","3-Apr-2020",NA,10
+"40","Cherokee","3-Jun-2020",NA,2
+"41","Cherokee","6-May-2020",NA,4
+"42","Cherokee","7-Apr-2020",NA,2
+"43","Cherokee","7-May-2020",NA,3
+"44","Cherokee","8-Apr-2020",NA,2
+"45","Cherokee","8-Jun-2020",NA,12
+"46","Cheyenne and Arapaho Tribes","19-May-2020",NA,1
+"47","Cheyenne River","19-May-2020",1,4
+"48","Cheyenne River","17-Jun-2020",NA,5
+"49","Cheyenne River","4-Apr-2020",NA,1
+"50","Choctaw Nation","14-Apr-2020",1,2
+"51","Choctaw Nation","21-Apr-2020",1,5
+"52","Choctaw Nation","22-Apr-2020",1,1
+"53","Choctaw Nation","4-Apr-2020",1,4
+"54","Choctaw Nation","9-May-2020",2,NA
+"55","Choctaw Nation","1-Apr-2020",NA,1
+"56","Choctaw Nation","1-May-2020",NA,3
+"57","Choctaw Nation","10-Apr-2020",NA,1
+"58","Choctaw Nation","12-Apr-2020",NA,1
+"59","Choctaw Nation","13-Apr-2020",NA,6
+"60","Choctaw Nation","15-Apr-2020",NA,5
+"61","Choctaw Nation","16-May-2020",NA,1
+"62","Choctaw Nation","17-Apr-2020",NA,3
+"63","Choctaw Nation","17-May-2020",NA,5
+"64","Choctaw Nation","18-Apr-2020",NA,3
+"65","Choctaw Nation","18-May-2020",NA,5
+"66","Choctaw Nation","19-May-2020",NA,5
+"67","Choctaw Nation","2-May-2020",NA,7
+"68","Choctaw Nation","20-Apr-2020",NA,2
+"69","Choctaw Nation","20-May-2020",NA,8
+"70","Choctaw Nation","21-May-2020",NA,1
+"71","Choctaw Nation","22-May-2020",NA,7
+"72","Choctaw Nation","23-Apr-2020",NA,2
+"73","Choctaw Nation","23-May-2020",NA,7
+"74","Choctaw Nation","24-Apr-2020",NA,1
+"75","Choctaw Nation","24-May-2020",NA,7
+"76","Choctaw Nation","26-Apr-2020",NA,6
+"77","Choctaw Nation","26-Mar-2020",NA,1
+"78","Choctaw Nation","27-Apr-2020",NA,2
+"79","Choctaw Nation","27-Mar-2020",NA,4
+"80","Choctaw Nation","28-Apr-2020",NA,4
+"81","Choctaw Nation","28-Mar-2020",NA,1
+"82","Choctaw Nation","29-Apr-2020",NA,1
+"83","Choctaw Nation","3-Apr-2020",NA,4
+"84","Choctaw Nation","3-May-2020",NA,4
+"85","Choctaw Nation","30-Apr-2020",NA,2
+"86","Choctaw Nation","5-May-2020",NA,1
+"87","Choctaw Nation","6-Apr-2020",NA,3
+"88","Choctaw Nation","6-May-2020",NA,3
+"89","Choctaw Nation","7-Apr-2020",NA,2
+"90","Choctaw Nation","9-Apr-2020",NA,2
+"91","Colorado River Indian Reservation","1-Jun-2020",NA,36
+"92","Colorado River Indian Reservation","1-May-2020",NA,1
+"93","Colorado River Indian Reservation","10-Jun-2020",NA,1
+"94","Colorado River Indian Reservation","11-Jun-2020",NA,5
+"95","Colorado River Indian Reservation","12-Jun-2020",NA,8
+"96","Colorado River Indian Reservation","12-May-2020",NA,1
+"97","Colorado River Indian Reservation","13-Jun-2020",NA,1
+"98","Colorado River Indian Reservation","13-May-2020",NA,11
+"99","Colorado River Indian Reservation","15-Jun-2020",NA,17
+"100","Colorado River Indian Reservation","17-Jun-2020",NA,10
+"101","Colorado River Indian Reservation","18-Jun-2020",NA,1
+"102","Colorado River Indian Reservation","18-May-2020",NA,5
+"103","Colorado River Indian Reservation","19-Jun-2020",NA,8
+"104","Colorado River Indian Reservation","19-May-2020",NA,3
+"105","Colorado River Indian Reservation","2-Jun-2020",NA,4
+"106","Colorado River Indian Reservation","22-Jun-2020",NA,10
+"107","Colorado River Indian Reservation","23-May-2020",NA,1
+"108","Colorado River Indian Reservation","27-May-2020",NA,11
+"109","Colorado River Indian Reservation","28-May-2020",NA,5
+"110","Colorado River Indian Reservation","29-May-2020",NA,2
+"111","Colorado River Indian Reservation","3-Jun-2020",NA,1
+"112","Colorado River Indian Reservation","4-Jun-2020",NA,14
+"113","Colorado River Indian Reservation","7-May-2020",NA,1
+"114","Colorado River Indian Reservation","8-Jun-2020",NA,44
+"115","Colville Reservation","23-Apr-2020",1,2
+"116","Colville Reservation","1-Apr-2020",NA,1
+"117","Colville Reservation","10-Apr-2020",NA,4
+"118","Colville Reservation","5-Apr-2020",NA,2
+"119","Deg Hit’an Athabaskan","27-Mar-2020",1,1
+"120","Eastern Band of Cherokee Indians","24-Jun-2020",1,3
+"121","Eastern Band of Cherokee Indians","10-Jun-2020",NA,37
+"122","Eastern Band of Cherokee Indians","11-Jun-2020",NA,7
+"123","Eastern Band of Cherokee Indians","12-Jun-2020",NA,8
+"124","Eastern Band of Cherokee Indians","13-Apr-2020",NA,5
+"125","Eastern Band of Cherokee Indians","22-Jun-2020",NA,1
+"126","Eastern Band of Cherokee Indians","27-Mar-2020",NA,1
+"127","Fort Berthold Indian Reservation","10-Apr-2020",NA,2
+"128","Fort Berthold Indian Reservation","10-May-2020",NA,2
+"129","Fort Berthold Indian Reservation","13-Apr-2020",NA,8
+"130","Fort Berthold Indian Reservation","15-Apr-2020",NA,1
+"131","Fort Berthold Indian Reservation","20-Apr-2020",NA,1
+"132","Fort Berthold Indian Reservation","21-Apr-2020",NA,2
+"133","Fort Berthold Indian Reservation","22-Apr-2020",NA,2
+"134","Fort Berthold Indian Reservation","4-Apr-2020",NA,15
+"135","Fort Berthold Indian Reservation","5-May-2020",NA,1
+"136","Fort Berthold Indian Reservation","6-Apr-2020",NA,1
+"137","Fort Berthold Indian Reservation","7-Apr-2020",NA,1
+"138","Fort Hall Indian Reservation","3-Apr-2020",NA,1
+"139","Fort Hall Indian Reservation","7-May-2020",NA,1
+"140","Fort McDowell Yavapai Nation","26-Mar-2020",1,1
+"141","Fort Sill Apache","1-Jun-2020",NA,3
+"142","Fort Yuma Indian Reservation","7-Apr-2020",NA,1
+"143","Gila River Indian Community","4-Apr-2020",1,NA
+"144","Gila River Indian Community","1-Apr-2020",NA,1
+"145","Gila River Indian Community","23-Mar-2020",NA,2
+"146","Gila River Indian Community","30-Mar-2020",NA,4
+"147","Ho-Chunk Nation","15-Apr-2020",2,3
+"148","Ho-Chunk Nation","2-Apr-2020",NA,1
+"149","Ho-Chunk Nation","26-Apr-2020",NA,4
+"150","Ho-Chunk Nation","8-Apr-2020",NA,5
+"151","Hoopa Valley Tribe","4-Apr-2020",NA,1
+"152","Hopi","11-May-2020",NA,15
+"153","Hopi","17-Apr-2020",NA,18
+"154","Hopi","2-Apr-2020",NA,6
+"155","Hopi","21-Apr-2020",NA,8
+"156","Hopi","23-Apr-2020",NA,6
+"157","Hopi","25-Mar-2020",NA,1
+"158","Hopi","4-May-2020",NA,13
+"159","Jemez Pueblo","21-Apr-2020",NA,1
+"160","Jicarilla Apache Nation","8-May-2020",NA,1
+"161","Kewa Pueblo","12-Jun-2020",NA,1
+"162","Kewa Pueblo","12-May-2020",NA,15
+"163","Kewa Pueblo","16-Apr-2020",NA,2
+"164","Kewa Pueblo","18-May-2020",NA,20
+"165","Kewa Pueblo","21-Apr-2020",NA,7
+"166","Kewa Pueblo","22-Apr-2020",NA,6
+"167","Kewa Pueblo","22-May-2020",NA,9
+"168","Kewa Pueblo","23-Jun-2020",NA,11
+"169","Kewa Pueblo","28-Apr-2020",NA,6
+"170","Kewa Pueblo","28-Mar-2020",NA,1
+"171","Kewa Pueblo","8-Jun-2020",NA,12
+"172","Kiowa Tribe of Oklahoma","17-Apr-2020",NA,1
+"173","Kotzebue, Alaska","20-May-2020",NA,1
+"174","Lac Courte Oreilles Tribe","20-May-2020",NA,1
+"175","Leech Lake Reservation","11-May-2020",NA,1
+"176","Lummi","1-May-2020",NA,5
+"177","Lummi","16-Apr-2020",NA,2
+"178","Lummi","18-Mar-2020",NA,3
+"179","Lummi","2-Apr-2020",NA,1
+"180","Lummi","2-May-2020",NA,2
+"181","Lummi","21-Mar-2020",NA,2
+"182","Lummi","22-Apr-2020",NA,1
+"183","Lummi","23-Mar-2020",NA,3
+"184","Lummi","26-Mar-2020",NA,2
+"185","Lummi","27-Mar-2020",NA,2
+"186","Lummi","28-Mar-2020",NA,3
+"187","Lummi","29-Apr-2020",NA,3
+"188","Lummi","29-Mar-2020",NA,1
+"189","Lummi","30-Apr-2020",NA,8
+"190","Lummi","31-Mar-2020",NA,1
+"191","Lummi","4-Apr-2020",NA,1
+"192","Lummi","9-May-2020",NA,1
+"193","Mashpee Wampanoag","6-May-2020",NA,11
+"194","Mescalero Apache Reservation","22-May-2020",1,1
+"195","Mescalero Apache Reservation","21-May-2020",NA,1
+"196","Mescalero Apache Reservation","24-May-2020",NA,1
+"197","Mescalero Apache Reservation","26-May-2020",NA,3
+"198","Mescalero Apache Reservation","28-May-2020",NA,2
+"199","Mescalero Apache Reservation","29-May-2020",NA,1
+"200","Mescalero Apache Reservation","4-Jun-2020",NA,1
+"201","Minneapolis","19-Apr-2020",1,NA
+"202","Mississippi Band of Choctaw Indians","1-Jul-2020",1,10
+"203","Mississippi Band of Choctaw Indians","1-Jun-2020",1,11
+"204","Mississippi Band of Choctaw Indians","1-May-2020",1,13
+"205","Mississippi Band of Choctaw Indians","10-Jun-2020",2,31
+"206","Mississippi Band of Choctaw Indians","11-Jun-2020",2,2
+"207","Mississippi Band of Choctaw Indians","11-May-2020",1,17
+"208","Mississippi Band of Choctaw Indians","12-Jun-2020",2,NA
+"209","Mississippi Band of Choctaw Indians","12-May-2020",1,7
+"210","Mississippi Band of Choctaw Indians","13-Jul-2020",1,6
+"211","Mississippi Band of Choctaw Indians","14-Jun-2020",4,9
+"212","Mississippi Band of Choctaw Indians","14-May-2020",1,34
+"213","Mississippi Band of Choctaw Indians","15-Jun-2020",4,3
+"214","Mississippi Band of Choctaw Indians","16-May-2020",2,1
+"215","Mississippi Band of Choctaw Indians","17-Apr-2020",1,6
+"216","Mississippi Band of Choctaw Indians","17-Jun-2020",1,5
+"217","Mississippi Band of Choctaw Indians","17-May-2020",1,31
+"218","Mississippi Band of Choctaw Indians","19-Jun-2020",2,19
+"219","Mississippi Band of Choctaw Indians","19-May-2020",1,22
+"220","Mississippi Band of Choctaw Indians","2-Jun-2020",2,14
+"221","Mississippi Band of Choctaw Indians","20-Jun-2020",1,2
+"222","Mississippi Band of Choctaw Indians","20-May-2020",1,21
+"223","Mississippi Band of Choctaw Indians","21-May-2020",1,32
+"224","Mississippi Band of Choctaw Indians","22-Jun-2020",1,4
+"225","Mississippi Band of Choctaw Indians","22-May-2020",1,1
+"226","Mississippi Band of Choctaw Indians","23-Jun-2020",1,2
+"227","Mississippi Band of Choctaw Indians","23-May-2020",1,21
+"228","Mississippi Band of Choctaw Indians","24-May-2020",1,22
+"229","Mississippi Band of Choctaw Indians","25-May-2020",1,26
+"230","Mississippi Band of Choctaw Indians","27-May-2020",2,45
+"231","Mississippi Band of Choctaw Indians","28-Jun-2020",1,10
+"232","Mississippi Band of Choctaw Indians","28-May-2020",1,9
+"233","Mississippi Band of Choctaw Indians","29-Apr-2020",1,10
+"234","Mississippi Band of Choctaw Indians","29-Jun-2020",1,5
+"235","Mississippi Band of Choctaw Indians","29-May-2020",1,27
+"236","Mississippi Band of Choctaw Indians","3-Jul-2020",1,10
+"237","Mississippi Band of Choctaw Indians","3-May-2020",2,4
+"238","Mississippi Band of Choctaw Indians","30-Jun-2020",1,9
+"239","Mississippi Band of Choctaw Indians","30-May-2020",1,1
+"240","Mississippi Band of Choctaw Indians","31-May-2020",1,53
+"241","Mississippi Band of Choctaw Indians","4-Jul-2020",1,NA
+"242","Mississippi Band of Choctaw Indians","4-Jun-2020",3,11
+"243","Mississippi Band of Choctaw Indians","4-May-2020",1,8
+"244","Mississippi Band of Choctaw Indians","5-Jun-2020",1,16
+"245","Mississippi Band of Choctaw Indians","5-May-2020",1,9
+"246","Mississippi Band of Choctaw Indians","6-Jun-2020",1,12
+"247","Mississippi Band of Choctaw Indians","6-May-2020",2,9
+"248","Mississippi Band of Choctaw Indians","7-Jun-2020",1,3
+"249","Mississippi Band of Choctaw Indians","7-May-2020",2,31
+"250","Mississippi Band of Choctaw Indians","8-Jun-2020",2,5
+"251","Mississippi Band of Choctaw Indians","8-May-2020",2,6
+"252","Mississippi Band of Choctaw Indians","1-Apr-2020",NA,1
+"253","Mississippi Band of Choctaw Indians","10-Apr-2020",NA,1
+"254","Mississippi Band of Choctaw Indians","10-May-2020",NA,14
+"255","Mississippi Band of Choctaw Indians","11-Jul-2020",NA,6
+"256","Mississippi Band of Choctaw Indians","12-Jul-2020",NA,9
+"257","Mississippi Band of Choctaw Indians","13-Jun-2020",NA,23
+"258","Mississippi Band of Choctaw Indians","14-Jul-2020",NA,1
+"259","Mississippi Band of Choctaw Indians","15-Apr-2020",NA,4
+"260","Mississippi Band of Choctaw Indians","15-May-2020",NA,13
+"261","Mississippi Band of Choctaw Indians","16-Apr-2020",NA,2
+"262","Mississippi Band of Choctaw Indians","16-Jun-2020",NA,15
+"263","Mississippi Band of Choctaw Indians","18-Apr-2020",NA,6
+"264","Mississippi Band of Choctaw Indians","18-May-2020",NA,5
+"265","Mississippi Band of Choctaw Indians","19-Apr-2020",NA,6
+"266","Mississippi Band of Choctaw Indians","2-Jul-2020",NA,2
+"267","Mississippi Band of Choctaw Indians","2-May-2020",NA,10
+"268","Mississippi Band of Choctaw Indians","20-Apr-2020",NA,9
+"269","Mississippi Band of Choctaw Indians","21-Apr-2020",NA,4
+"270","Mississippi Band of Choctaw Indians","21-Jun-2020",NA,10
+"271","Mississippi Band of Choctaw Indians","22-Apr-2020",NA,10
+"272","Mississippi Band of Choctaw Indians","23-Apr-2020",NA,10
+"273","Mississippi Band of Choctaw Indians","24-Apr-2020",NA,12
+"274","Mississippi Band of Choctaw Indians","24-Mar-2020",NA,1
+"275","Mississippi Band of Choctaw Indians","25-Jun-2020",NA,18
+"276","Mississippi Band of Choctaw Indians","26-Apr-2020",NA,10
+"277","Mississippi Band of Choctaw Indians","26-Jun-2020",NA,2
+"278","Mississippi Band of Choctaw Indians","26-May-2020",NA,44
+"279","Mississippi Band of Choctaw Indians","27-Apr-2020",NA,8
+"280","Mississippi Band of Choctaw Indians","27-Jun-2020",NA,5
+"281","Mississippi Band of Choctaw Indians","28-Apr-2020",NA,16
+"282","Mississippi Band of Choctaw Indians","3-Jun-2020",NA,19
+"283","Mississippi Band of Choctaw Indians","30-Apr-2020",NA,7
+"284","Mississippi Band of Choctaw Indians","5-Jul-2020",NA,3
+"285","Mississippi Band of Choctaw Indians","6-Jul-2020",NA,4
+"286","Mississippi Band of Choctaw Indians","7-Apr-2020",NA,1
+"287","Mississippi Band of Choctaw Indians","7-Jul-2020",NA,4
+"288","Mississippi Band of Choctaw Indians","8-Apr-2020",NA,1
+"289","Mississippi Band of Choctaw Indians","8-Jul-2020",NA,5
+"290","Mississippi Band of Choctaw Indians","9-Apr-2020",NA,1
+"291","Mississippi Band of Choctaw Indians","9-Jul-2020",NA,5
+"292","Mississippi Band of Choctaw Indians","9-Jun-2020",NA,11
+"293","Mississippi Band of Choctaw Indians","9-May-2020",NA,8
+"294","Muckleshoot Tribe","2-Apr-2020",NA,2
+"295","Muscogee (Creek) Nation","25-Mar-2020",NA,1
+"296","Navajo Nation","1-Jul-2020",5,64
+"297","Navajo Nation","1-Jun-2020",2,131
+"298","Navajo Nation","1-May-2020",2,166
+"299","Navajo Nation","10-Jul-2020",10,56
+"300","Navajo Nation","10-Jun-2020",7,125
+"301","Navajo Nation","10-May-2020",2,149
+"302","Navajo Nation","11-Apr-2020",2,101
+"303","Navajo Nation","11-Jun-2020",6,103
+"304","Navajo Nation","11-May-2020",2,82
+"305","Navajo Nation","12-Jul-2020",5,89
+"306","Navajo Nation","12-Jun-2020",5,92
+"307","Navajo Nation","12-May-2020",1,41
+"308","Navajo Nation","13-Apr-2020",4,115
+"309","Navajo Nation","13-Jun-2020",5,84
+"310","Navajo Nation","13-May-2020",16,147
+"311","Navajo Nation","14-Apr-2020",5,25
+"312","Navajo Nation","14-Jun-2020",3,57
+"313","Navajo Nation","14-May-2020",8,141
+"314","Navajo Nation","15-Apr-2020",5,83
+"315","Navajo Nation","16-Apr-2020",3,121
+"316","Navajo Nation","16-Jun-2020",8,39
+"317","Navajo Nation","16-May-2020",13,172
+"318","Navajo Nation","17-Apr-2020",3,85
+"319","Navajo Nation","17-Jun-2020",3,75
+"320","Navajo Nation","18-Jun-2020",2,85
+"321","Navajo Nation","18-May-2020",2,69
+"322","Navajo Nation","19-Jun-2020",6,62
+"323","Navajo Nation","19-May-2020",2,82
+"324","Navajo Nation","2-Jul-2020",2,56
+"325","Navajo Nation","2-Jun-2020",4,54
+"326","Navajo Nation","20-Apr-2020",1,124
+"327","Navajo Nation","20-Jun-2020",4,69
+"328","Navajo Nation","20-May-2020",2,100
+"329","Navajo Nation","21-Apr-2020",3,63
+"330","Navajo Nation","21-Jun-2020",1,27
+"331","Navajo Nation","21-May-2020",1,181
+"332","Navajo Nation","22-Apr-2020",1,76
+"333","Navajo Nation","22-May-2020",2,95
+"334","Navajo Nation","23-Apr-2020",3,78
+"335","Navajo Nation","23-Jun-2020",1,43
+"336","Navajo Nation","23-May-2020",4,104
+"337","Navajo Nation","24-Apr-2020",6,180
+"338","Navajo Nation","24-Jun-2020",11,69
+"339","Navajo Nation","24-May-2020",3,56
+"340","Navajo Nation","25-Apr-2020",1,97
+"341","Navajo Nation","25-Jun-2020",1,121
+"342","Navajo Nation","25-May-2020",1,105
+"343","Navajo Nation","26-Jun-2020",2,42
+"344","Navajo Nation","26-May-2020",1,48
+"345","Navajo Nation","27-Jun-2020",12,94
+"346","Navajo Nation","27-Mar-2020",2,21
+"347","Navajo Nation","27-May-2020",1,102
+"348","Navajo Nation","28-Apr-2020",1,104
+"349","Navajo Nation","28-Jun-2020",1,55
+"350","Navajo Nation","28-May-2020",8,100
+"351","Navajo Nation","29-Apr-2020",2,104
+"352","Navajo Nation","29-May-2020",64,101
+"353","Navajo Nation","3-Apr-2020",5,29
+"354","Navajo Nation","3-Jun-2020",7,128
+"355","Navajo Nation","30-Apr-2020",9,164
+"356","Navajo Nation","30-Jun-2020",1,17
+"357","Navajo Nation","30-Mar-2020",3,20
+"358","Navajo Nation","30-May-2020",10,105
+"359","Navajo Nation","31-Mar-2020",2,26
+"360","Navajo Nation","31-May-2020",5,98
+"361","Navajo Nation","4-Apr-2020",1,51
+"362","Navajo Nation","4-Jun-2020",5,69
+"363","Navajo Nation","5-Apr-2020",1,33
+"364","Navajo Nation","5-Jul-2020",3,109
+"365","Navajo Nation","5-Jun-2020",5,78
+"366","Navajo Nation","5-May-2020",6,85
+"367","Navajo Nation","6-Apr-2020",1,30
+"368","Navajo Nation","6-Jun-2020",5,110
+"369","Navajo Nation","6-May-2020",6,95
+"370","Navajo Nation","7-Apr-2020",2,42
+"371","Navajo Nation","7-Jul-2020",1,27
+"372","Navajo Nation","7-Jun-2020",3,102
+"373","Navajo Nation","7-May-2020",3,103
+"374","Navajo Nation","8-Apr-2020",3,64
+"375","Navajo Nation","8-Jul-2020",3,40
+"376","Navajo Nation","8-May-2020",8,119
+"377","Navajo Nation","9-Apr-2020",2,70
+"378","Navajo Nation","9-Jul-2020",4,61
+"379","Navajo Nation","9-Jun-2020",8,40
+"380","Navajo Nation","9-May-2020",2,97
+"381","Navajo Nation","1-Apr-2020",NA,40
+"382","Navajo Nation","10-Apr-2020",NA,39
+"383","Navajo Nation","13-Jul-2020",NA,56
+"384","Navajo Nation","14-Jul-2020",NA,47
+"385","Navajo Nation","15-Jun-2020",NA,22
+"386","Navajo Nation","15-May-2020",NA,101
+"387","Navajo Nation","17-Mar-2020",NA,2
+"388","Navajo Nation","17-May-2020",NA,90
+"389","Navajo Nation","18-Apr-2020",NA,70
+"390","Navajo Nation","18-Mar-2020",NA,1
+"391","Navajo Nation","19-Mar-2020",NA,11
+"392","Navajo Nation","2-Apr-2020",NA,27
+"393","Navajo Nation","2-May-2020",NA,81
+"394","Navajo Nation","21-Mar-2020",NA,12
+"395","Navajo Nation","22-Jun-2020",NA,55
+"396","Navajo Nation","23-Mar-2020",NA,3
+"397","Navajo Nation","24-Mar-2020",NA,20
+"398","Navajo Nation","25-Mar-2020",NA,20
+"399","Navajo Nation","26-Apr-2020",NA,79
+"400","Navajo Nation","26-Mar-2020",NA,2
+"401","Navajo Nation","27-Apr-2020",NA,53
+"402","Navajo Nation","29-Jun-2020",NA,63
+"403","Navajo Nation","29-Mar-2020",NA,36
+"404","Navajo Nation","4-May-2020",NA,101
+"405","Navajo Nation","6-Jul-2020",NA,74
+"406","Navajo Nation","8-Jun-2020",NA,90
+"407","Nez Perce Reservation","1-May-2020",NA,2
+"408","Nez Perce Reservation","2-May-2020",NA,10
+"409","Nez Perce Reservation","7-May-2020",NA,4
+"410","Ohkay Owingeh","3-Apr-2020",NA,1
+"411","Oneida Nation of Wisconsin","1-Apr-2020",NA,2
+"412","Osage Nation","2-Jun-2020",NA,6
+"413","Osage Nation","4-Jun-2020",NA,7
+"414","Otoe-Missouria Tribe","24-Mar-2020",NA,1
+"415","Pascua Yaqui","31-Mar-2020",2,2
+"416","Penobscot Nation","5-Apr-2020",NA,1
+"417","Pine Ridge Indian Reservation","11-May-2020",NA,2
+"418","Pueblo of Isleta","13-Mar-2020",NA,1
+"419","Pueblo of San Felipe","23-Apr-2020",NA,65
+"420","Pueblo of San Felipe","31-Mar-2020",NA,3
+"421","Pueblo of San Felipe","7-Apr-2020",NA,49
+"422","Pueblo of Zia","5-Apr-2020",NA,11
+"423","Pueblo of Zia","7-Apr-2020",NA,20
+"424","Pueblo of Zuni","11-May-2020",1,NA
+"425","Pueblo of Zuni","7-Apr-2020",1,13
+"426","Pueblo of Zuni","1-Apr-2020",NA,2
+"427","Pueblo of Zuni","1-May-2020",NA,33
+"428","Pueblo of Zuni","10-Apr-2020",NA,9
+"429","Pueblo of Zuni","14-Apr-2020",NA,7
+"430","Pueblo of Zuni","21-Apr-2020",NA,5
+"431","Pueblo of Zuni","28-Apr-2020",NA,12
+"432","Puyallup","29-Mar-2020",NA,1
+"433","Red Lake Band of Chippewa Indians","31-Mar-2020",NA,1
+"434","Red Lake Indian Reservation","21-May-2020",NA,1
+"435","Riverside-San Bernardino County Indian Health Inc.","15-Apr-2020",NA,2
+"436","Rosebud Sioux Tribe","13-May-2020",NA,13
+"437","Rosebud Sioux Tribe","18-May-2020",NA,3
+"438","Rosebud Sioux Tribe","26-Mar-2020",NA,1
+"439","Sac and Fox Tribe of the Mississippi","23-Mar-2020",NA,1
+"440","Saint Regis Mohawk Tribe and the Mohawk Council of Akwesasne","28-Mar-2020",NA,1
+"441","Salt River Pima-Maricopa Indian Community","1-Jun-2020",NA,1
+"442","Salt River Pima-Maricopa Indian Community","12-May-2020",NA,4
+"443","Salt River Pima-Maricopa Indian Community","24-Mar-2020",NA,1
+"444","Salt River Pima-Maricopa Indian Community","26-May-2020",NA,28
+"445","Salt River Pima-Maricopa Indian Community","28-May-2020",NA,1
+"446","Salt River Pima-Maricopa Indian Community","31-May-2020",NA,11
+"447","Salt River Pima-Maricopa Indian Community","7-May-2020",NA,1
+"448","San Carlos Apache Reservation","14-May-2020",NA,1
+"449","Santee Sioux Nation","6-May-2020",NA,1
+"450","Seneca Nation","14-Apr-2020",NA,1
+"451","Seneca Nation","19-Mar-2020",NA,1
+"452","Seneca Nation ","28-Apr-2020",1,NA
+"453","Southern Ute","29-Mar-2020",NA,2
+"454","Standing Rock Sioux Reservation","8-Apr-2020",NA,1
+"455","Tennessee","22-Mar-2020",1,1
+"456","Tohono O'odham Nation","1-May-2020",1,6
+"457","Tohono O'odham Nation","15-May-2020",2,4
+"458","Tohono O'odham Nation","22-May-2020",1,5
+"459","Tohono O'odham Nation","24-Apr-2020",3,11
+"460","Tohono O'odham Nation","8-May-2020",1,5
+"461","Tohono O'odham Nation","10-Apr-2020",NA,12
+"462","Tohono O'odham Nation","28-Apr-2020",NA,3
+"463","Tohono O'odham Nation","28-Mar-2020",NA,1
+"464","Tohono O'odham Nation","29-May-2020",NA,14
+"465","Tohono O'odham Nation","31-Mar-2020",NA,1
+"466","Tohono O'odham Nation","5-Jun-2020",NA,1
+"467","Tulalip Tribes","11-Mar-2020",NA,1
+"468","Tulalip Tribes","23-Mar-2020",NA,2
+"469","Turtle Mountain Indian Reservation","19-Apr-2020",NA,1
+"470","United Houma Nation","17-Apr-2020",NA,11
+"471","Washington, District of Columbia","6-Apr-2020",NA,1
+"472","White Mountain Apache","1-Jun-2020",1,20
+"473","White Mountain Apache","22-May-2020",2,22
+"474","White Mountain Apache","26-Apr-2020",1,NA
+"475","White Mountain Apache","27-Mar-2020",1,1
+"476","White Mountain Apache","29-May-2020",1,35
+"477","White Mountain Apache","3-Jun-2020",1,35
+"478","White Mountain Apache","8-Jun-2020",3,21
+"479","White Mountain Apache","1-Apr-2020",NA,1
+"480","White Mountain Apache","10-Apr-2020",NA,3
+"481","White Mountain Apache","10-May-2020",NA,24
+"482","White Mountain Apache","11-May-2020",NA,9
+"483","White Mountain Apache","12-May-2020",NA,13
+"484","White Mountain Apache","13-Apr-2020",NA,9
+"485","White Mountain Apache","15-Apr-2020",NA,12
+"486","White Mountain Apache","16-Apr-2020",NA,2
+"487","White Mountain Apache","17-Apr-2020",NA,4
+"488","White Mountain Apache","17-May-2020",NA,113
+"489","White Mountain Apache","18-Apr-2020",NA,3
+"490","White Mountain Apache","18-May-2020",NA,15
+"491","White Mountain Apache","19-Apr-2020",NA,30
+"492","White Mountain Apache","19-May-2020",NA,19
+"493","White Mountain Apache","2-Jun-2020",NA,33
+"494","White Mountain Apache","20-Apr-2020",NA,4
+"495","White Mountain Apache","20-May-2020",NA,39
+"496","White Mountain Apache","21-Apr-2020",NA,11
+"497","White Mountain Apache","21-May-2020",NA,29
+"498","White Mountain Apache","22-Apr-2020",NA,4
+"499","White Mountain Apache","23-Apr-2020",NA,2
+"500","White Mountain Apache","23-May-2020",NA,41
+"501","White Mountain Apache","24-May-2020",NA,21
+"502","White Mountain Apache","25-Apr-2020",NA,19
+"503","White Mountain Apache","25-May-2020",NA,14
+"504","White Mountain Apache","26-May-2020",NA,18
+"505","White Mountain Apache","27-Apr-2020",NA,20
+"506","White Mountain Apache","27-May-2020",NA,27
+"507","White Mountain Apache","28-May-2020",NA,13
+"508","White Mountain Apache","30-May-2020",NA,32
+"509","White Mountain Apache","31-May-2020",NA,10
+"510","White Mountain Apache","4-Jun-2020",NA,48
+"511","White Mountain Apache","5-Jun-2020",NA,40
+"512","White Mountain Apache","5-May-2020",NA,99
+"513","White Mountain Apache","6-Jun-2020",NA,35
+"514","White Mountain Apache","7-Jun-2020",NA,22
+"515","White Mountain Apache","7-May-2020",NA,19
+"516","White Mountain Apache","8-Apr-2020",NA,7
+"517","White Mountain Apache","8-May-2020",NA,17
+"518","White Mountain Apache","9-May-2020",NA,9
+"519","Wind River Reservation","21-Apr-2020",4,NA
+"520","Wind River Reservation","10-Apr-2020",NA,6
+"521","Wind River Reservation","21-Mar-2020",NA,1
+"522","Wind River Reservation","31-Mar-2020",NA,9
+"523","Winnebago Tribe of Nebraska","18-Jun-2020",2,5
+"524","Winnebago Tribe of Nebraska","21-May-2020",1,1
+"525","Winnebago Tribe of Nebraska","1-May-2020",NA,1
+"526","Winnebago Tribe of Nebraska","10-Jun-2020",NA,6
+"527","Winnebago Tribe of Nebraska","13-May-2020",NA,1
+"528","Winnebago Tribe of Nebraska","15-May-2020",NA,3
+"529","Winnebago Tribe of Nebraska","2-Jun-2020",NA,3
+"530","Winnebago Tribe of Nebraska","23-Apr-2020",NA,1
+"531","Winnebago Tribe of Nebraska","23-May-2020",NA,4
+"532","Winnebago Tribe of Nebraska","27-May-2020",NA,6
+"533","Winnebago Tribe of Nebraska","29-May-2020",NA,6
+"534","Winnebago Tribe of Nebraska","3-Jun-2020",NA,5
+"535","Winnebago Tribe of Nebraska","30-May-2020",NA,14
+"536","Winnebago Tribe of Nebraska","7-May-2020",NA,2
+"537","Winnebago Tribe of Nebraska","8-Jun-2020",NA,8
+"538","Yakama Nation","19-May-2020",3,90
+"539","Yakama Nation","22-May-2020",1,5
+"540","Yakama Nation","25-Apr-2020",1,NA
+"541","Yakama Nation","26-May-2020",1,8
+"542","Yakama Nation","20-May-2020",NA,3
+"543","Yankton Sioux","17-Mar-2020",NA,1
